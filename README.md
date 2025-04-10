@@ -1,1 +1,1 @@
-# Terraform-WordPress-CongfigureRemoteState-s3-DynamoDB-setup
+# Terraform-WordPress-CongfigureRemoteState-s3-setup
